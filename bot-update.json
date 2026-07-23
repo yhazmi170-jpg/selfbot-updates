@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "url": "",
+  "changelog": [
+    "[1.0.0] — Initial public release",
+    "  • $20210 OSINT command with depth recursion",
+    "  • $opensite — open URLs in browser",
+    "  • $admins — show connected users (admin only)",
+    "  • $imgdow / $revimg — image tools",
+    "  • $updatelog — show changelog",
+    "  • First-run token setup via terminal",
+    "  • Ban system for access control",
+    "  • Permission system (admin/user roles)",
+    "  • Users tab in dashboard to manage perms",
+    "  • Auto-update via $update command",
+    "  • Live web dashboard on port 3000"
+  ]
+}
