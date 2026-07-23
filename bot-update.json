@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "url": "",
+  "url": "https://raw.githubusercontent.com/yhazmi170-jpg/selfbot-updates/main/bot-build.zip",
   "changelog": [
     "[1.0.0] — Initial public release",
     "  • $20210 OSINT command with depth recursion",
@@ -13,6 +13,7 @@
     "  • Permission system (admin/user roles)",
     "  • Users tab in dashboard to manage perms",
     "  • Auto-update via $update command",
-    "  • Live web dashboard on port 3000"
+    "  • Live web dashboard on port 3000",
+    "  • Phone-home: remote bots self-register via webhook"
   ]
 }
